@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "routes": [
+    {
+      "route": "",
+      "file": "index.html",
+      "sha256": "76c9cc78e6585e312b64c41b75888182d1c651bc97a14c186e8123c845db667d"
+    },
+    {
+      "route": "companies/",
+      "file": "companies/index.html",
+      "sha256": "6c70b9a476f300713d39b64a775570ac14f80b800aa9e6063ffe92bc447750ce"
+    },
+    {
+      "route": "scenarios/",
+      "file": "scenarios/index.html",
+      "sha256": "ec501fced55d25d9c9261d81e30aea3282989d7df488549dd64b01df825830c8"
+    },
+    {
+      "route": "industry/",
+      "file": "industry/index.html",
+      "sha256": "7d4a77e6746ea7c4ab5e711f6fdafba3d9159dcba2a2712375551f8658920c94"
+    },
+    {
+      "route": "data/",
+      "file": "data/index.html",
+      "sha256": "47571a0ae72147606b0cc3b389680863eafe9f097603f566d5f8513b9c560f80"
+    },
+    {
+      "route": "events/",
+      "file": "events/index.html",
+      "sha256": "d98f88715ce88a24064ddd3600c64c415377852f67237c641bb83898de92a7ef"
+    },
+    {
+      "route": "research/",
+      "file": "research/index.html",
+      "sha256": "2cf74040a1820cd89693fd288bfd4fc58fa09b3de27118e24f847d687bff47ee"
+    },
+    {
+      "route": "validation/",
+      "file": "validation/index.html",
+      "sha256": "cad499585ab4ca066be1ff84d10d0f7847146e40d8e7a8dc0d5c9158e71b60f2"
+    },
+    {
+      "route": "method/",
+      "file": "method/index.html",
+      "sha256": "34a8890adc44b143cc264b74c446265687d1a5e8f801c166f2aa2d21d44675b5"
+    },
+    {
+      "route": "company/6505/",
+      "file": "company/6505/index.html",
+      "sha256": "ee2960d07fe28be58d19425877cf09d7d8cff68351dcafbdfd5e452508133a16"
+    },
+    {
+      "route": "company/1301/",
+      "file": "company/1301/index.html",
+      "sha256": "efbbab085a05ee1c0798fb1246bb45fed3fac0dca8553f581995358c0fb6e2b2"
+    },
+    {
+      "route": "company/1303/",
+      "file": "company/1303/index.html",
+      "sha256": "b302aab3d54e0f28b27ba42fbcd7cee2adfde70abe7c64a120b924824d53c63e"
+    },
+    {
+      "route": "company/1326/",
+      "file": "company/1326/index.html",
+      "sha256": "fa5936008e216aec66bd8098c3a0e786739223db93aa45c59681e53a2c6cfbb9"
+    },
+    {
+      "route": "company/1304/",
+      "file": "company/1304/index.html",
+      "sha256": "e851aac194244b654f53badf1c0f2488329f336721f791eaec6d5a49fe036714"
+    },
+    {
+      "route": "company/1305/",
+      "file": "company/1305/index.html",
+      "sha256": "db4cf64854da6b9ba2cad97d359be4e8e27a5c40e756c753414b5351e8d6924c"
+    },
+    {
+      "route": "company/1308/",
+      "file": "company/1308/index.html",
+      "sha256": "34a582fefe13b134fb4f82397b259d40c6fc1dcff83d523a7c7f95688c6002d5"
+    },
+    {
+      "route": "company/1309/",
+      "file": "company/1309/index.html",
+      "sha256": "054479a68ce034835738412ea91fb0809cd174c626b21cdae1864743d6b59719"
+    },
+    {
+      "route": "company/1310/",
+      "file": "company/1310/index.html",
+      "sha256": "8452a9c005e9dbf9cf0329fbb408a5f64a27f850d9ffe175aad7dc507b531322"
+    },
+    {
+      "route": "company/1312/",
+      "file": "company/1312/index.html",
+      "sha256": "421cafe3fc8c88a5eede7265a2f7e75e283ca18f0f565917104711c43cd6af78"
+    },
+    {
+      "route": "company/1313/",
+      "file": "company/1313/index.html",
+      "sha256": "75eca67eb746c0564fde9ec50de8dcc8022421b436c6eedf8e8b9830670fa149"
+    },
+    {
+      "route": "company/1314/",
+      "file": "company/1314/index.html",
+      "sha256": "ca92d872c976ed2ebcec4300c8d7556325f13e406e80c130252122f12663af38"
+    },
+    {
+      "route": "company/1710/",
+      "file": "company/1710/index.html",
+      "sha256": "82f6dfa79bc85c41e68d4ef3ac094de15b6219cfb73676be729cf66a4a32199e"
+    },
+    {
+      "route": "company/1718/",
+      "file": "company/1718/index.html",
+      "sha256": "2c86c2d769c5206edf76f790376e9ffd5b1b010dd43ca29b9e437d499d56d91e"
+    },
+    {
+      "route": "company/2103/",
+      "file": "company/2103/index.html",
+      "sha256": "d5d291090feab2b2fc225942fdca3c848c882fe5203c00b333a51415218047d3"
+    },
+    {
+      "route": "company/2104/",
+      "file": "company/2104/index.html",
+      "sha256": "7101c0ffd1f31cb2d30f8d844788ed59a33bdb90acd29920de76c5a7ac45718c"
+    },
+    {
+      "route": "company/2108/",
+      "file": "company/2108/index.html",
+      "sha256": "a162d44bc4d2c1364fb4a04f70351642a4727d43e80da3a59549d2751cd57041"
+    },
+    {
+      "route": "company/1714/",
+      "file": "company/1714/index.html",
+      "sha256": "b3d91709d3ad676cc77f76a68e342d1737667b40643fe881487202aef752de79"
+    },
+    {
+      "route": "company/1722/",
+      "file": "company/1722/index.html",
+      "sha256": "2bfbe47ca6712f63db69b095c13244ff33c2548cdb8446b10d76599a6ad62948"
+    },
+    {
+      "route": "company/1717/",
+      "file": "company/1717/index.html",
+      "sha256": "8baa9f83564872743639d8642c9e02516403cecd67ab1b3bc0743274ebf936da"
+    }
+  ]
+}
